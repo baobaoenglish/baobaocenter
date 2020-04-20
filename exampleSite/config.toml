@@ -1,4 +1,4 @@
-baseURL = "https://tienganhbaobao.netlify.com/"
+baseURL = "https://tienganhbaobao.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
